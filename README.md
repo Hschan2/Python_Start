@@ -9,3 +9,8 @@
 2. part4, part5, twoday
 - 자료구조 (리스트, 튜플)
 - 딕셔너리
+
+3. part6, part7, animal, geopy
+- 클래스
+- 패키지
+- geo api를 이용한 geopy
