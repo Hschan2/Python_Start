@@ -19,3 +19,6 @@
 - 1단계 => random을 이용해서 while문으로 기초적이고 간단한 로또를 만들어보자
 - 2단계 => random.randInt()는 중복되서 출력되니 중복 제거를 해보자 (random.sample(range()) 이용
 
+##### 5. animal
+- 함수를 이용해 동물 울음소리 출력
+
